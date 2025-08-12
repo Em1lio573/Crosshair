@@ -1,4 +1,3 @@
-# Crosshair
 # Crosshair Overlay Personalizable
 
 ## Descripción
